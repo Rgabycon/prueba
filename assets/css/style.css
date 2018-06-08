@@ -53,7 +53,6 @@ h5 {
 .img-bg {
     background: url("../img/caroline-hernandez-219485-unsplash.jpg") center center fixed;
     background-repeat: no-repeat;
-    background-position: 50% 27%;
     background-size: cover;
     height: 50vh;
     background-position: 50% 3%;
@@ -150,6 +149,37 @@ h5 {
 .logo--footer {
     width: 150px;
     margin: 30px;
+}
+
+.bann--titulo {
+    color: #fff;
+    font-size: 3rem;
+}
+.img-bg-nosotros {
+    background: url("../img/piron-guillaume-361651-unsplash.jpg") center center fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 30vh;
+    background-position: 50% 3%;
+    margin: 0;
+}
+
+.box--circle{
+    text-align: center;
+    padding-bottom: 4rem;
+}
+
+.img-bg-noticias {
+    background: url("../img/kelly-sikkema-266805-unsplash.jpg") center center fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 30vh;
+    background-position: 50% 3%;
+    margin: 0;
+}
+
+.contenedor__notice--box-card {
+    padding: 40px;
 }
 
 .footer-bg {
